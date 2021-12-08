@@ -1,0 +1,1 @@
+"for handling embeddings extraction"
