@@ -24,7 +24,7 @@ python3 test.py --img test/anim1.jpg
 ```
 
 ## Result
-Acquire 100% accuracy with 11 query images in test folder. Here is the result examples.
+Acquire 100% accuracy with 11 query images in test folder. Here is the result's examples.
 
 ### Animate
 ![Figure1](./assets/output_anim.png)
